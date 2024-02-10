@@ -1,6 +1,8 @@
 # Ejemplo de despliegue de aplicaciones con GitHub Actions
 Este repositorio está configurado para desplegarse en AWS ElasticBeanstalk y Azure Web Apps mediante GitHub Actions.
 
+El Despliegue de Manuel Enguidanos se puede ver en la siguiente url: http://aplicacionmenguidanos-env.eba-vjmejjk4.us-east-1.elasticbeanstalk.com/?data=Manuel+Enguidanos
+
 Videotutoriales:
 - [Despliegue en Azure](https://youtu.be/AtAwxn_yMeE)
 - [Despliegue en AWS](https://youtu.be/gcWCoqO9PnQ)
